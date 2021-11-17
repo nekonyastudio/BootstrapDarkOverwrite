@@ -1,0 +1,26 @@
+# IDE
+**/.vs
+**/.vscode
+**/.idea
+
+# DotNet
+**/[Bb]in/
+**/[Oo]bj/
+*.user
+
+
+
+# Sqlite
+*.db
+*.db-shm
+*.db-wal
+
+# Others
+**/node_modules/
+
+# Log
+src/**/Logs
+
+# Configurations
+**/*.Development.json
+**/*.Production.json

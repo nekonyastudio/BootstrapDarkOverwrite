@@ -1,0 +1,11 @@
+[
+  {
+    "outputFileName": "wwwroot/lib/nekonya-bsdark/css/nekonya-bs-blackbox.min.css",
+    "inputFiles": [
+      "wwwroot/lib/nekonya-bsdark/css/nekonya-bs-blackbox.css"
+    ],
+    "minify": {
+      "enabled": true
+    }
+  }
+]
